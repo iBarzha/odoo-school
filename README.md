@@ -1,1 +1,3 @@
 # odoo-school
+
+Test info
